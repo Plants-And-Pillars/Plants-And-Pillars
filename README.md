@@ -16,7 +16,19 @@ Core Objectives and Future Plans of Plants And Pillars-
 - 🌍 **Plants and Pillars DAO**: This will help our community to take all the important decisions in a decentralized way and help in the smooth functioning of the project.
 - 🎯 **GOAL**: Our Ultimate Goal is to reduce carbon emissions by planting more and more trees and educating people about our current environmental issues.
 
+### Login With Unstoppable Domains Integration
 
+- Recorded video demo of the integration - https://drive.google.com/file/d/1CUq87n_9DCVBiZ8GL6uOo66-iUISYOt1/view?usp=sharing
+- Person of contact in case there are any questions - Aviral Gupta (Email - guptaaviral59@gmail.com )
+- Discord ID - aviral23#0766
+- UnstoppableDomain registered account email address - guptaaviral59@gmail.com
+- Code where UnstoppableDomain is used - https://github.com/Plants-And-Pillars/Plants-And-Pillars/blob/main/components/UDomain.js
+
+- NOTION PAGE - https://www.notion.so/Plants-And-Pillars-95884cb336794be7ad0f883a0e771411
+
+- Made By - AVIRAL GUPTA
+- Github - https://github.com/aviral10x
+- Twitter - https://twitter.com/aviral10x
 ### Implementation and MVP
 
 ---
@@ -71,18 +83,6 @@ the performUpkeep function will automatically execute the functions in a set tim
 - TailwindCSS
 - web3uikit by Moralis
 
-### Login With Unstoppable Domains Integration
 
-- Recorded video demo of the integration - https://drive.google.com/file/d/1CUq87n_9DCVBiZ8GL6uOo66-iUISYOt1/view?usp=sharing
-- Person of contact in case there are any questions - Aviral Gupta (Email - guptaaviral59@gmail.com )
-- Discord ID - aviral23#0766
-- UnstoppableDomain registered account email address - guptaaviral59@gmail.com
-- Code where UnstoppableDomain is used - https://github.com/Plants-And-Pillars/Plants-And-Pillars/blob/main/components/UDomain.js
-
-- NOTION PAGE - https://www.notion.so/Plants-And-Pillars-95884cb336794be7ad0f883a0e771411
-
-- Made By - AVIRAL GUPTA
-- Github - https://github.com/aviral10x
-- Twitter - https://twitter.com/aviral10x
 # Thank you!
 

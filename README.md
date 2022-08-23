@@ -20,7 +20,7 @@ Core Objectives and Future Plans of Plants And Pillars-
 
 ### Login With Unstoppable Domains Integration
 
-- Recorded video demo of the integration - https://drive.google.com/file/d/1CUq87n_9DCVBiZ8GL6uOo66-iUISYOt1/view?usp=sharing
+- Recorded video demo of the integration - https://drive.google.com/file/d/10zNA5xJMTH1ulZT8gZvVld_OOmS5sh71/view?usp=sharing
 - Person of contact in case there are any questions - Aviral Gupta (Email - guptaaviral59@gmail.com )
 - Discord ID - aviral23#0766
 - UnstoppableDomain registered account email address - guptaaviral59@gmail.com

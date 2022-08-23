@@ -71,17 +71,18 @@ the performUpkeep function will automatically execute the functions in a set tim
 - TailwindCSS
 - web3uikit by Moralis
 
+
+
+- Recorded video demo of the integration - https://drive.google.com/file/d/1CUq87n_9DCVBiZ8GL6uOo66-iUISYOt1/view?usp=sharing
+- Person of contact in case there are any questions - Aviral Gupta (Email - guptaaviral59@gmail.com )
+- Discord ID - aviral23#0766
+- UnstoppableDomain registered account email address - guptaaviral59@gmail.com
+- Code where UnstoppableDomain is used - https://github.com/Plants-And-Pillars/Plants-And-Pillars/blob/main/components/UDomain.js
+
 - NOTION PAGE - https://www.notion.so/Plants-And-Pillars-95884cb336794be7ad0f883a0e771411
 
 - Made By - AVIRAL GUPTA
 - Github - https://github.com/aviral10x
-- Discord - 
 - Twitter - https://twitter.com/aviral10x
-
-Recorded video demo of the integration - https://drive.google.com/file/d/1CUq87n_9DCVBiZ8GL6uOo66-iUISYOt1/view?usp=sharing
-Person of contact in case there are any questions - Aviral Gupta (Email - guptaaviral59@gmail.com )
-Discord ID - aviral23#0766
-UnstoppableDomain registered account email address - guptaaviral59@gmail.com
-Code where UnstoppableDomain is used - https://github.com/Plants-And-Pillars/Plants-And-Pillars/blob/main/components/UDomain.js
 # Thank you!
 

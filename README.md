@@ -21,26 +21,26 @@ Core Objectives and Future Plans of Plants And Pillars-
 
 ---
 
-- GitHub Repository - https://github.com/aviral10x/Plants-And-Pillars
+- GitHub Repository - https://github.com/Plants-And-Pillars/Plants-And-Pillars
 
 ### Sponsor Integrations -
 
 - Polygon Dapp - The whole app is deployed on Polygon Mumbai Testnet.
 
 - Ceramic - Ceramic is used to create the decentralized identities of the people who want to post blogs on PlantsPedia. It is used to publish the content on IPFS and for data streaming purposes.
-- Link - https://github.com/aviral10x/Plants-And-Pillars/blob/main/components/Feed.js
+- Link - https://github.com/Plants-And-Pillars/Plants-And-Pillars/blob/main/components/Feed.js
 
 - IPFS - Blogs for PlantsPedia are stored on IPFS through Ceramic Data Streaming. NFTs which are uploaded through NFTPort are uploaded on IPFS.
-- Link - https://github.com/aviral10x/Plants-And-Pillars/blob/main/components/Feed.js
+- Link - https://github.com/Plants-And-Pillars/Plants-And-Pillars/blob/main/components/Feed.js
 
 - POAP - POAP API is used for displaying and interacting with existing POAPs. Also, we will award the active supporters of the project with POAPs to encourage them.
-- Link - https://github.com/aviral10x/Plants-And-Pillars/blob/main/components/Competition.js
+- Link - https://github.com/Plants-And-Pillars/Plants-And-Pillars/blob/main/components/Competition.js
 
 - NFTPort - NFTPort's API is used to upload the image of the plant which is planted by the users.
-- Link - https://github.com/aviral10x/Plants-And-Pillars/blob/main/components/MintNFT.js
+- Link - https://github.com/Plants-And-Pillars/Plants-And-Pillars/blob/main/components/MintNFT.js
 
 - Covalent API - Covalent API is used for displaying the portfolio of the user.
-- Link - https://github.com/aviral10x/Plants-And-Pillars/blob/main/components/CovalentDashboard.js
+- Link - https://github.com/Plants-And-Pillars/Plants-And-Pillars/blob/main/components/CovalentDashboard.js
 
 - Chainlink - Chainlink VRF (Verifiable Random Function)
 
@@ -49,9 +49,7 @@ Core Objectives and Future Plans of Plants And Pillars-
 - This is used to automate the smart contracts by running the Verifiable Random Function to help in selecting the winner every day.
 - The checkUpkeep function will check if the auction/grant ended or not.
 the performUpkeep function will automatically execute the functions in a set time period when the day has ended. This function also automatically sends the amount to the winner of that day.
-- Link - https://github.com/aviral10x/Plants-And-Pillars/blob/main/components/LotteryEntrance.js
-
-- Spheron Protocol - Plants and Pillars is also deployed on Spheron.
+- Link - https://github.com/Plants-And-Pillars/Plants-And-Pillars/blob/main/components/LotteryEntrance.js
 
 
 
@@ -77,8 +75,13 @@ the performUpkeep function will automatically execute the functions in a set tim
 
 - Made By - AVIRAL GUPTA
 - Github - https://github.com/aviral10x
-- Discord - aviral23#0766
+- Discord - 
 - Twitter - https://twitter.com/aviral10x
 
+Recorded video demo of the integration - https://drive.google.com/file/d/1CUq87n_9DCVBiZ8GL6uOo66-iUISYOt1/view?usp=sharing
+Person of contact in case there are any questions - Aviral Gupta (Email - guptaaviral59@gmail.com )
+Discord ID - aviral23#0766
+UnstoppableDomain registered account email address - guptaaviral59@gmail.com
+Code where UnstoppableDomain is used - https://github.com/Plants-And-Pillars/Plants-And-Pillars/blob/main/components/UDomain.js
 # Thank you!
 

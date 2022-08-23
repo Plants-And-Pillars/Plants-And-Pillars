@@ -16,6 +16,8 @@ Core Objectives and Future Plans of Plants And Pillars-
 - 🌍 **Plants and Pillars DAO**: This will help our community to take all the important decisions in a decentralized way and help in the smooth functioning of the project.
 - 🎯 **GOAL**: Our Ultimate Goal is to reduce carbon emissions by planting more and more trees and educating people about our current environmental issues.
 
+---
+
 ### Login With Unstoppable Domains Integration
 
 - Recorded video demo of the integration - https://drive.google.com/file/d/1CUq87n_9DCVBiZ8GL6uOo66-iUISYOt1/view?usp=sharing

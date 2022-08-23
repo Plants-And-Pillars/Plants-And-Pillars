@@ -1,5 +1,6 @@
 import Link from 'next/link';
 import { ConnectButton } from "web3uikit";
+import UDomain from "../components/UDomain";
 
 export default function Header() {
     return (
@@ -38,7 +39,8 @@ export default function Header() {
                     </h4>
                 </Link>
             </div>
-            <div className="ml-auto py-2 px-4">
+            <div className="flex ml-auto py-2 px-4">
+                <UDomain />
                 <ConnectButton moralisAuth={false} />
             </div>
         </nav>
